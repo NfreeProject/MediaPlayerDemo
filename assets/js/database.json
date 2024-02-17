@@ -1,0 +1,143 @@
+{
+    "ALLMUSIC": [
+        {
+            "id": "944c8d51",
+            "name": "QUB3, Quickdrop & B0UNC3 - Stay Or Be Alone [NCS Release]",
+            "artist": "N - freeProject",
+            "img": "./assets/img/logo.png",
+            "src": "./assets/song/song1.mp3",
+            "date": "2023-11-28",
+            "album": "N - freeProject"
+        },
+        {
+            "id": "35947a12",
+            "name": "Why Do I Ft. Sweet But Psycho",
+            "artist": "N - freeProject",
+            "img": "./assets/img/logo.png",
+            "src": "./assets/song/song2.mp3",
+            "date": "2023-11-28",
+            "album": "N - freeProject"
+        },
+        {
+            "id": "956267c1",
+            "name": "Ava Max - Sweet but Psycho (BEAUZ Remix)",
+            "artist": "N - freeProject",
+            "img": "./assets/img/logo.png",
+            "src": "./assets/song/song3.mp3",
+            "date": "2023-11-28",
+            "album": "N - freeProject"
+        },
+        {
+            "id": "af320893",
+            "name": "Infinity Ink - Infinity (Dubdogz & Bhaskar Remix) (Bass Boosted)",
+            "artist": "N - freeProject",
+            "img": "./assets/img/logo.png",
+            "src": "./assets/song/song4.mp3",
+            "date": "2023-11-28",
+            "album": "N - freeProject"
+        },
+        {
+            "id": "df84f60a",
+            "name": "Jim - Sun Goes Down",
+            "artist": "N - freeProject",
+            "img": "./assets/img/logo.png",
+            "src": "./assets/song/song5.mp3",
+            "date": "2023-11-28",
+            "album": "N - freeProject"
+        },
+        {
+            "id": "ef34f70a",
+            "name": "NEFFEX - Cold",
+            "artist": "N - freeProject",
+            "img": "./assets/img/logo.png",
+            "src": "./assets/song/song6.mp3",
+            "date": "2023-11-28",
+            "album": "N - freeProject"
+        },
+        {
+            "id": "ay326f24a",
+            "name": "NEFFEX - Grateful",
+            "artist": "N - freeProject",
+            "img": "./assets/img/logo.png",
+            "src": "./assets/song/song7.mp3",
+            "date": "2023-11-28",
+            "album": "N - freeProject"
+        }
+    ],
+    "PLAYLIST": [
+        {
+            "id": "7d7551f1",
+            "name": "EDM Remix",
+            "thumbnail": "edm-remix-background.jpg",
+            "type": "0"
+        },
+        {
+            "id": "535b0f11",
+            "name": "EDM Mix",
+            "thumbnail": "edm-mix-background.jpg",
+            "type": "0"
+        },
+        {
+            "id": "512133ca",
+            "name": "Chill Music",
+            "thumbnail": "chill-music-background.jpg",
+            "type": "0"
+        },
+        {
+            "id": "235d74fd",
+            "name": "Slap Music",
+            "thumbnail": "slap-hours-background.jpg",
+            "type": "0"
+        },
+        {
+            "id": "d23fc66b",
+            "name": "Electronic Music",
+            "thumbnail": "electronic-background.jpg",
+            "type": "0"
+        },
+        {
+            "id": "6471e019",
+            "name": "EDM Remix",
+            "thumbnail": "motivation-1-background.jpg",
+            "type": "1"
+        },
+        {
+            "id": "9193f52b",
+            "name": "EDM Mix",
+            "thumbnail": "motivation-2-background.jpg",
+            "type": "1"
+        },
+        {
+            "id": "a2b8419f",
+            "name": "Chill Music",
+            "thumbnail": "motivation-3-background.jpg",
+            "type": "1"
+        },
+        {
+            "id": "d7b2587d",
+            "name": "Chill Music",
+            "thumbnail": "motivation-4-background.jpg",
+            "type": "2"
+        },
+        {
+            "id": "8cda218d",
+            "name": "Electronic Music",
+            "thumbnail": "motivation-5-background.jpg",
+            "type": "2"
+        }
+    ],
+    "TYPE_PLAYLIST": [
+        {
+            "id": "0",
+            "name": "Trending Music"
+        },
+        {
+            "id": "1",
+            "name": "Motivation Song"
+        },
+        {
+            "id": "2",
+            "name": "Relax"
+        }
+    ]
+}
